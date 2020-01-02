@@ -1,0 +1,14 @@
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.csprojAssemblyReference.cache
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.csproj.CoreCompileInputs.cache
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.RazorAssemblyInfo.cache
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.RazorAssemblyInfo.cs
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.AssemblyInfoInputs.cache
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.AssemblyInfo.cs
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\bin\Debug\netcoreapp2.2\TweetBook2.deps.json
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\bin\Debug\netcoreapp2.2\TweetBook2.runtimeconfig.json
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\bin\Debug\netcoreapp2.2\TweetBook2.runtimeconfig.dev.json
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\bin\Debug\netcoreapp2.2\TweetBook2.dll
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\bin\Debug\netcoreapp2.2\TweetBook2.pdb
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.RazorTargetAssemblyInfo.cache
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.dll
+G:\ASP.net Core\AspCoreRestAPI\TweetBook2\TweetBook2\obj\Debug\netcoreapp2.2\TweetBook2.pdb
