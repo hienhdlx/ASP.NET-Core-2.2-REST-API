@@ -21,6 +21,7 @@ namespace TweetBook2.Installers
 
             //insert service post
             services.AddScoped<IPostService, PostService>();
+            //services.AddSingleton<IPostService, CosmosPostService>();
         }
     }
 }
